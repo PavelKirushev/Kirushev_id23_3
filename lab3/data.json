@@ -1,0 +1,9 @@
+{
+    "speed": 5.0,
+    "endurance": 30.0,
+    "eatingSpeed": 0.0,
+    "fertility": 25.0,
+    "screenWidth": 800,
+    "screenHeight": 600,
+    "countOfCabbages": 15.0
+}
